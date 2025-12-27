@@ -24,7 +24,9 @@ FinFlow is a web-based personal finance management application developed using P
 The project follows a modular PHP structure where core operations like authentication, transactions, and budget handling are managed through separate backend process files.
 
 ## 📸 Screenshots
-(Add screenshots of dashboard, transactions, and budgets here)
+![Dashboard](screenshots/dashboard.png)
+![Transactions](screenshots/transactions.png)
+![Budgets](screenshots/budgets.png)
 
 ## 🔮 Future Enhancements
 - Data visualization using charts

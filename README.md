@@ -25,7 +25,7 @@ The project follows a modular PHP structure where core operations like authentic
 
 ## 📸 Screenshots
 ![Dashboard](screenshots/dashboard.png)
-![Transactions](screenshots/transactions.png)
+![Dashboard](screenshots/transactions.png)
 ![Budgets](screenshots/budgets.png)
 
 ## 🔮 Future Enhancements
